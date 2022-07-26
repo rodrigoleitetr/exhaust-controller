@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Esp32ExhaustController</string>
+    <string name="urban">Urbano</string>
+    <string name="pista">Pista</string>
+    <string name="sport">Sport</string>
+    <string name="closed">Fechado</string>
+    <string name="open">Aberto</string>
+</resources>
